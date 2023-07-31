@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EmployeeAccountingSystemAPI", "EmployeeAccountingSystemAPI\EmployeeAccountingSystemAPI.csproj", "{283F4CFD-4965-47EB-A45A-204872270788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestEmployeeManagement", "TestEmployeeManagement\TestEmployeeManagement.csproj", "{8460B46F-D166-47C2-AF66-D96D1BC31B90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{283F4CFD-4965-47EB-A45A-204872270788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{283F4CFD-4965-47EB-A45A-204872270788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{283F4CFD-4965-47EB-A45A-204872270788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{283F4CFD-4965-47EB-A45A-204872270788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8460B46F-D166-47C2-AF66-D96D1BC31B90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8460B46F-D166-47C2-AF66-D96D1BC31B90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8460B46F-D166-47C2-AF66-D96D1BC31B90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8460B46F-D166-47C2-AF66-D96D1BC31B90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E458385-087B-4874-ACD9-12D44AFB5A76}
+	EndGlobalSection
+EndGlobal
